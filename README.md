@@ -240,13 +240,13 @@ portfolio/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/shivani-009/your-portfolio-repository.git
+git clone https://github.com/shivani-009/my_portfolio.git
 ```
 
 ### 2. Open the project
 
 ```bash
-cd your-portfolio-repository
+cd my_portfolio
 ```
 
 ### 3. Run locally

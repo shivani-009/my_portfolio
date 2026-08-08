@@ -278,7 +278,6 @@ The portfolio can be deployed using platforms such as:
 **Shivani Vishwakarma**
 
 📧 Email: [shivani0vishwakarma@gmail.com](mailto:shivani0vishwakarma@gmail.com)
-📱 Phone: +91 96966 09690
 💻 GitHub: https://github.com/shivani-009
 💼 LinkedIn: https://linkedin.com/in/shivani-vishwakarma-3272b6289
 
